@@ -1,0 +1,5 @@
+We successfully fitted an SIR model to the daily diagnosis counts, estimating key epidemiological parameters: the infection rate (beta) at approximately 1.67 and the recovery rate (gamma) at 1.66. From these, we calculated a basic reproduction number (R0) of approximately 1.01.
+
+The R0 value, being slightly above 1, suggests that each infected individual is, on average, infecting slightly more than one other person, indicating a disease that is spreading, albeit slowly. The model provided a good fit to the historical observed data for infected individuals, and its extension into the future predicted a peak of approximately 20 infected individuals around 2024-01-18. The extended model also illustrates the expected decline in susceptible individuals and a corresponding increase in recovered individuals over time.
+
+This analysis offers a simplified yet valuable insight into the dynamics of diagnoses within the observed population, highlighting the potential trajectory and peak of active cases under the assumed conditions.
